@@ -3096,3 +3096,34 @@ border-radius: 50%;
 .test{
     border: 1px solid red;
 }
+.menu-9{
+background-image: url(./img-menu-1/end-1.png);    
+position: absolute;
+height: 320px;
+left: 2%;
+right: 0%;
+top: 1080%;
+border-radius: 30px;
+Width:1380px;
+Height:320px;
+}
+
+.menu9-text1{
+    position: absolute;
+    height: 60px;
+    left: 0%;
+    right: -0.1%;
+    top: 0.17px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+    /* identical to box height, or 120% */
+    
+    letter-spacing: 0.36px;
+    text-transform: capitalize;
+    
+    color: #FFFFFF;    
+}
