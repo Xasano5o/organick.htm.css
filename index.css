@@ -3111,9 +3111,9 @@ Height:320px;
 .menu9-text1{
     position: absolute;
     height: 60px;
-    left: 0%;
+    left: 6%;
     right: -0.1%;
-    top: 0.17px;
+    top: 18%;
     
     font-family: 'Roboto';
     font-style: normal;
@@ -3126,4 +3126,113 @@ Height:320px;
     text-transform: capitalize;
     
     color: #FFFFFF;    
+}
+
+.menu9-text2 {
+position: absolute;
+height: 60px;
+left: 0%;
+right: 23.15%;
+top: 23%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height, or 120% */
+
+letter-spacing: 0.36px;
+text-transform: capitalize;
+color: #FFFFFF;
+
+height: 60px;
+width: 248px;
+left: 6%;
+top: 34%;
+}
+
+.menu-endbtn{
+    box-sizing: border-box;
+    position: absolute;
+    height: 82px;
+    left: 0.07%;
+    right: 38.24%;
+    top: 10.17px;
+    
+    background: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 16px;   
+    height: 82px;
+    width: 350px;
+    left: 50%;
+    top: 50%;
+    border-radius: 16px;
+    
+}
+
+.menu-text-end1
+{
+    position: absolute;
+    height: 29px;
+    left: 55%;
+    right: 56.04%;
+    top: 58%;
+    width: 200px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    /* identical to box height, or 160% */
+    letter-spacing: 0.36px;
+    color: #525C60;
+}
+
+.end-submid1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 197px;
+    height: 82px;
+    left: calc(50% - 197px/2 + 175.2px);
+    top: calc(50% - 82px/2 + 0.17px);
+    
+    background: #274C5B;
+    border: 1px solid #274C5B;
+    border-radius: 16px;   
+    height: 82px;
+    width: 197px;
+    left: 78%;
+    top: 50%;
+    border-radius: 16px;
+    
+
+}
+
+.menu9-textend2{
+    position: absolute;
+    left: 18.27%;
+    right: 36.04%;
+    top: 31.71%;
+    bottom: 32.93%;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 29px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: 0.36px;
+    
+    color: #FFFFFF;   
+    height: 29px;
+    width: 90px;
+    left: 82%;
+    top: 58%;
+    border-radius: nullpx;
+    
+
+
 }
